@@ -1,12 +1,12 @@
 # Fullstack Application - Laravel(Backend) and Reactjs(FrontEnd) 
-# >Laravel Api in conjunction with Frontend using Vite to create React App
+> Laravel Api in conjunction with Frontend using Vite to create React App, Its CRUD operation with authentication
 
 ## Installation
 You will need PHP8.1, composer and Node.js.
 
 * clone this project into your local machine
   ```
-  git clone 
+  git clone https://github.com/KimelirR/React-Laravel-app.git
   ```
 
 * Install project dependencies
@@ -22,8 +22,8 @@ You will need PHP8.1, composer and Node.js.
  
 * Provide database credentials below in .env file.
   ```
-     DB_DATABASE="Your Database"
-     DB_USERNAME="Your Database User Name"
+     DB_DATABASE="Database"
+     DB_USERNAME="Database User Name"
      DB_PASSWORD="Database Password"
   ```
 
