@@ -1,4 +1,4 @@
-# Fullstack Application - Laravel(Backend) and Reactjs(FrontEnd) 
+# Full Stack Application - Laravel(Backend) and Reactjs(FrontEnd) 
 > Laravel Api in conjunction with Frontend using Vite to create React App, Its CRUD operation with authentication
 
 ## Installation
